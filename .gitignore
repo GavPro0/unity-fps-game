@@ -153,4 +153,7 @@ $RECYCLE.BIN/
 .vscode/
 
 /[Aa]ssets/[Tt]errainSampleAssets/
+/[Aa]ssets/[Ss]tandard [Aa]ssets/
+#/[Aa]ssets/[Tt]errain/
+#/[Aa]ssets/[Ss]cenes/
 
