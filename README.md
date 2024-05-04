@@ -1,2 +1,2 @@
-# unity-fps-game [main]
+# unity-fps-game [10-s]
 
