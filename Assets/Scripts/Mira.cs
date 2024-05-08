@@ -5,9 +5,7 @@ using UnityEngine;
 public class Mira : MonoBehaviour
 {
     public float Sensitivity = 100f;
-
     public Transform player1;
-
     float xRotation = 0f;
 
     // Start is called before the first frame update
